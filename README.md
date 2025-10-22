@@ -1,0 +1,1 @@
+A to-do list that runs in the terminal. It starts by loading an existing file from a file called list.txt. Then it gives you a menu where you can add a task delete a task or view all the tasks in the to-do list. The whole thing runs in a loop, so after you add or delete a task, it just shows you the menu again until you decide to exit.
